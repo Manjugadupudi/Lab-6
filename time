@@ -1,0 +1,21 @@
+Time for Trap.c
+10000 1.570796 -3.334001e-09
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.000s
+
+Time for Trap_omp1.c
+10000 1.570796 -3.333998e-09
+
+real	0m0.108s
+user	0m0.076s
+sys	0m0.020s
+
+Time for Trap_omp2.c
+10000 1.570796 -3.334001e-09
+
+real	0m0.104s
+user	0m0.032s
+sys	0m0.048s
+
